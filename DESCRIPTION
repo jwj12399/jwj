@@ -1,0 +1,11 @@
+Package: jwj
+Type: Package
+Title: This is a hello world package.
+Version: 0.1.1
+Author: Jiao Wenjuan
+Maintainer: jwj<jwj123@sjtu.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GNU
+Encoding: UTF-8
+LazyData: true
